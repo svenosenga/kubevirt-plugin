@@ -1,5 +1,5 @@
 # NOTE: Since the `:latest` tag can have npm version changes, we are using
-#       a specific version tag. Container build errors have come up when
+#       a specific version tag.Container build errors have come up when
 #       the `:latest` is updated.
 #
 # Image info: https://catalog.redhat.com/software/containers/ubi9/nodejs-18/62e8e7ed22d1d3c2dfe2ca01
